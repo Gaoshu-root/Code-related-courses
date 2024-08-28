@@ -3,6 +3,6 @@
 
 价值迭代
 
-$\qquad$ 利用 与 探索 之间的权衡
+$\qquad$ [利用 与 探索 之间的权衡](https://github.com/Gaoshu-root/Code-related-courses/blob/main/RL2024/README.md)
 
 
