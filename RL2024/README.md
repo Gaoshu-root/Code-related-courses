@@ -11,9 +11,9 @@ Measure everything (一些算法指标)： **the mean/std/min/max for cumulative
 * [Reinforcement Learning Tips and Tricks](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
 
 
-     |  Single Process|  Multiprocessed
--------- | -----| -----
-Discrete Actions | `DQN` with extensions (double DQN, prioritized replay, …) <br>训练缓慢、但样本效率高(replay buffer) |`PPO` or `A2C`
-Continuous Actions  |`SAC`, `TD3`, `CrossQ` and `TQC` |`PPO`, `TRPO` or `A2C`
+ |    |  Single Process|  Multiprocessed
+|-------- | -----| -----
+|Discrete Actions | `DQN` with extensions (double DQN, prioritized replay, …) <br>训练缓慢、但样本效率高(replay buffer) |`PPO` or `A2C`
+|Continuous Actions  |`SAC`, `TD3`, `CrossQ` and `TQC` |`PPO`, `TRPO` or `A2C`
 
 
