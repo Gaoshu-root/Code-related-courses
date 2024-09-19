@@ -17,3 +17,8 @@ Measure everything (一些算法指标)： **the mean/std/min/max for cumulative
 |Continuous Actions  |`SAC`, `TD3`, `CrossQ` and `TQC` |`PPO`, `TRPO` or `A2C`
 
 
+
+![image](https://github.com/user-attachments/assets/9b77b822-4bbb-47bc-b452-add3b88e45e0)
+
+
+
