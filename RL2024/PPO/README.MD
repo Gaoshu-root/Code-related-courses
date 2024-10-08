@@ -8,3 +8,9 @@ $R(\tau)=\sum\limits_{t=0}^\infty \gamma^tr_t~~~~~~$  [【参考链接】](https
 
 
 
+
+ - [ ] 实现并行 actors 版本。 参考  https://gymnasium.farama.org/tutorials/gymnasium_basics/vector_envs_tutorial/#sphx-glr-tutorials-gymnasium-basics-vector-envs-tutorial-py
+
+
+
+
