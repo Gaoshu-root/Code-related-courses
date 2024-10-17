@@ -1,5 +1,5 @@
 ### Some Tips
-https://github.com/Gaoshu-root/Code-related-courses/blob/main/RL2024/SomeTips.md
+*  https://github.com/Gaoshu-root/Code-related-courses/blob/main/RL2024/SomeTips.md
 
 
 
