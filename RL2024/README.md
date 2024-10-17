@@ -1,3 +1,8 @@
+### Some Tips
+https://github.com/Gaoshu-root/Code-related-courses/blob/main/RL2024/SomeTips.md
+
+
+
 ### helpful materials
 * [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 
