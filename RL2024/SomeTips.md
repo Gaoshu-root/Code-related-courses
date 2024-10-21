@@ -25,6 +25,10 @@ DQNs_df = pd.DataFrame(
     }
 )
 
+if not os.path.exists("DQNs-Test"):
+  os.mkdir("DQNs-Test")
+
+
 DQNs_df.to_csv("/content/drive/MyDrive/DQNs-Test/DQNs_df.csv")
 ```
 
