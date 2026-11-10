@@ -3,7 +3,7 @@
 graph BT
     classDef wide2 padding:400px;
     classDef wide1 padding:200px;
-    P1("<div style='text-align:left'><font size="4">点击跳转到笔记：</font><br>PPO + CartPole v1</div>") --> P2("<div style='text-align:left'><font size="4">点击跳转到笔记：</font><br>Generative Adversarial Imitation Learning (GAIL) + CartPole-v1</div>")
+    P1("<div style='text-align:left'><font size="5">点击跳转到笔记：</font><br>PPO + CartPole v1</div>") --> P2("<div style='text-align:left'><font size="5">点击跳转到笔记：</font><br>Generative Adversarial Imitation Learning (GAIL) + CartPole-v1</div>")
     class P1 wide1
     class P2 wide2
     click P1 "https://github.com/Gaoshu-root/Code-related-courses/blob/main/RL2024/PPO_%2B_CartPole_v1_.ipynb" _blank
