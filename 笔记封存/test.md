@@ -1,6 +1,6 @@
 
 ```mermaid
-%%{init: {'themeVariables': {'fontSize': '18px'}}}%%
+%%{init: {'themeVariables': {'fontSize': '22px'}}}%%
 graph BT
     classDef wide2 padding:400px;
     classDef wide1 padding:200px;
