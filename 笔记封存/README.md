@@ -9,6 +9,11 @@ config:
     disableMulticolor: true
   themeVariables:
     cScale0: '#9933FA'
+    cScaleLabel0: '#ffffff'
+    cScale1: '#9933FA'
+    cScaleLabel1: '#ffffff'
+    cScale2: '##9933FA'
+    cScaleLabel2: '#ffffff'
 ---
     timeline TD
         文件夹内容的时间轴
