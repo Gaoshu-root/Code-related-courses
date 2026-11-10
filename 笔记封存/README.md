@@ -7,6 +7,8 @@ config:
   theme: 'base'
   timeline:
     disableMulticolor: true
+  themeVariables:
+    cScale0: '#9933FA'
 ---
     timeline TD
         文件夹内容的时间轴
