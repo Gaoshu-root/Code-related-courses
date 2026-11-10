@@ -12,7 +12,7 @@ config:
     cScaleLabel0: '#ffffff'
     cScale1: '#9933FA'
     cScaleLabel1: '#ffffff'
-    cScale2: '##9933FA'
+    cScale2: '#9933FA'
     cScaleLabel2: '#ffffff'
 ---
     timeline TD
